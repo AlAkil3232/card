@@ -15,7 +15,7 @@ body {
             width: 100%;
             background-color: lightblue;
             flex-direction: column;
-            margin-bottom: 30px;
+           justify-content: space-between;
      }
      /*body design end */
 
